@@ -51,3 +51,6 @@
     ...
   ]
 }
+```
+## Скриншот выполнения
+![photo_2024-05-20_21-51-08](https://github.com/Kolleper/TicketAnalyzer/assets/61471977/6b8b0236-3ef8-45cd-92e6-b71c57ca281c)
